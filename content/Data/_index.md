@@ -2,7 +2,7 @@
 title: "Data"
 description: "Metadata for Contemporary Banned Books"
 cascade:
-  featured_image: '/images/extracted_header.png'
+  featured_image:
 menu:
   main:
     weight: 1
