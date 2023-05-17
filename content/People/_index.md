@@ -2,7 +2,7 @@
 title: "People"
 description: 
 cascade:
-  featured_image: '/images/about_1.jpeg'
+  featured_image: 
 menu:
   main:
     weight: 1
