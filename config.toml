@@ -1,6 +1,6 @@
 baseURL = '/'
 languageCode = 'en-us'
-title = 'The SF Nexus'
+title = 'Representation Labo'
 theme = "gohugo-theme-ananke"
 canonifyURLS=true
 [menu]
