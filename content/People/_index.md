@@ -8,7 +8,7 @@ menu:
     weight: 1
 ---
 
-This page contains information about all the team members who are working or have worked on this project across many institutions.
+This page contains information about all the team members who are working or have worked on this project.
 
 * [Alex Wermer-Colan](https://library.temple.edu/people/alex-wermer-colan-ph-d), Interim Academic Director, Loretta C. Duckworth Scholars Studio
 * [Laura McGrath](https://laurabmcgrath.com/), Assistant Professor, Temple University English Department
