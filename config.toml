@@ -16,11 +16,3 @@ canonifyURLS=true
   name = 'Data'
   pageRef = '/Data'
   weight = 3
- [[menu.main]]
-  name = 'OCR'
-  pageRef = '/OCR'
-  weight = 4
-[[menu.main]]
-  name = 'Models'
-  pageRef = '/Models'
-  weight = 5
