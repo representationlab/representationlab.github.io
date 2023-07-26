@@ -7,4 +7,4 @@ menu:
   main:
     weight: 1
 ---
-Information about the project forthcoming.
+Information about Temple Unversity Representation Lab project forthcoming. 
