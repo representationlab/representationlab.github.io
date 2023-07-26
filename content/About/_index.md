@@ -2,7 +2,7 @@
 title: "About"
 description: 
 cascade:
-  featured_image: 
+  featured_image: '/images/FullSizeRender.jpeg'
 menu:
   main:
     weight: 1
