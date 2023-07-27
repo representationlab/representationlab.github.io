@@ -8,4 +8,4 @@ The Representation Lab is building corpora for cultural analytics research. Curr
 
 Follow our Progress:
 [![TikTok Logo](/images/TikTok-Logo.wine.png)](https://www.tiktok.com/@representationlab_temple?is_from_webapp=1&sender_device=pc)
-[![Instagram Logo](/images/Instagram-Logo.png)]([https://www.tiktok.com/@representationlab_temple?is_from_webapp=1&sender_device=pc](https://www.instagram.com/representationlab_temple/?igshid=MzRlODBiNWFlZA%3D%3D)https://www.instagram.com/representationlab_temple/?igshid=MzRlODBiNWFlZA%3D%3D)
+[![Instagram Logo](/images/Instagram-Logo.png)](https://www.instagram.com/representationlab_temple/?igshid=MzRlODBiNWFlZA%3D%3D)
