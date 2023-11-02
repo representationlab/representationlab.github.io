@@ -10,5 +10,5 @@ Stay tuned for more information, as well as examples of code and data.
 
 
 Follow our Progress:
-[![TikTok Logo](/images/TikTok-Logo.winecropped.png)](https://www.tiktok.com/@representationlab_temple?is_from_webapp=1&sender_device=pc) @representationlab_temple
-[![Instagram Logo](/images/Instagram-Logo.png)](https://www.instagram.com/representationlab_temple/?igshid=MzRlODBiNWFlZA%3D%3D) @representationlab_temple
+[!(https://www.tiktok.com/@representationlab_temple) @representationlab_temple
+[!(https://www.instagram.com/representationlab_temple) @representationlab_temple
