@@ -10,5 +10,5 @@ Stay tuned for more information, as well as examples of code and data.
 
 
 Follow our Progress:
-[!(https://www.tiktok.com/@representationlab_temple) @representationlab_temple
-[!(https://www.instagram.com/representationlab_temple) @representationlab_temple
+![Tiktok](https://www.tiktok.com/@representationlab_temple) @representationlab_temple
+![Instagram](https://www.instagram.com/representationlab_temple) @representationlab_temple
